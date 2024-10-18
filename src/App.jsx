@@ -42,7 +42,6 @@ function App() {
     setIsEditing(false);
     setCurrentIndex(null);
   };
-
   return (
     <div className="main">
       <h1 style={{display:'flex',justifyContent:'center'}}>Todo Application</h1>
